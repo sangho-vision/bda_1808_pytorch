@@ -1,4 +1,4 @@
 # BDA_1808_PyTorch
 
 This repository is for practicing the PyTorch Basic Tutorials.
-All the tutorials in this repository are from [HelloPyTorch](https://github.com/InsuJeon/HelloPyTorch).
+All the tutorials in this repository are from [HelloPyTorch](https://github.com/InsuJeon/HelloPyTorch) and [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial).
